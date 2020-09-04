@@ -21,11 +21,4 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
-  text: {
-    color: "red",
-    backgroundColor: "green",
-  },
-  auto: {
-    borderRadius: "1px solid gray",
-  },
 });

@@ -60,9 +60,9 @@ class App extends React.Component {
           }}
         />
         <Text>
-          <Text>{this.state.name}</Text> ||
-          <Text>{this.state.email}</Text> ||
-          <Text>{this.state.password}</Text> ||
+          <Text>{this.state.name}</Text>
+          <Text>{this.state.email}</Text>
+          <Text>{this.state.password}</Text>
         </Text>
       </View>
     );
